@@ -1,0 +1,18 @@
+{
+  "last_item_id": 3,
+  "epics": {
+    "2": {
+      "name": "Epic 1",
+      "description": "Epic 1 description",
+      "status": "Open",
+      "stories": []
+    }
+  },
+  "stories": {
+    "3": {
+      "name": "Story 1",
+      "description": "Story 1 description",
+      "status": "Open"
+    }
+  }
+}

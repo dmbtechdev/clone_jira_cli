@@ -1,8 +1,8 @@
 ### Problem Statement
 
-We will build a Jira clone for the terminal.
+Build a Jira clone for the terminal.
 
-We will build two primary features in Jira:
+Build two primary features in Jira:
 
 * Epic CRUD
 * Story CRUD
@@ -21,16 +21,22 @@ and for an Epic,
 * Update Story status,
 * Delete Story,
 
+---
+
+
+
 ### Objective
 
-In this project, we aim to learn and practice the following:
+* Building CLI apps in Rust
+* Reading & writing to disk
+* Using third-party crates (like serde, anyhow, itertools, etc.)
+* Writing testable code
+* Organizing code using modules
+* Navigating and contributing to an existing code base
 
-Building CLI apps in Rust
-Reading & writing to disk
-Using third-party crates (like serde, anyhow, itertools, etc.)
-Writing testable code
-Organizing code using modules
-Navigating and contributing to an existing code base
+---
+
+
 
 ### Relationship graph:
 
